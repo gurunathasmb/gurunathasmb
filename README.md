@@ -85,12 +85,4 @@ PHP                      1 repo              █░░░░░░░░░░�
 Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/gurunathasmb/gurunathasmb/main/assets/bar_graph.png)
-
-
- Last Updated on 25/05/2025 03:18:14 UTC
 <!--END_SECTION:waka-->
