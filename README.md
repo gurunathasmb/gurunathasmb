@@ -1,90 +1,70 @@
-<h2 align="center">Hi 👋! I'm Gurunathagouda.<br> Developer from India 🇮🇳</h2>
-<p align="center">
-<a href="https://wakatime.com/@gurunathasmb"></a>
+<h1 align="center">Hi 👋, Gurunathasmb</h1>
+<h3 align="center">A passionate Full-Stack Developer & AI Enthusiast</h3>
 
-    
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+## 🚀 About Me
+🌟 I'm a passionate and curious developer with a strong interest in Artificial Intelligence and Machine Learning
+
+🔭 Currently building an AI-Powered Project Management System to enhance team productivity
+
+🌱 Actively learning Node.js, Express.js, MongoDB, and diving deeper into Advanced React & Full-Stack Development
+
+💡 I love turning ideas into real-world solutions using technology
+
+📚 Always eager to explore the latest tools in AI, data visualization, and modern web technologies
+
+👨‍💻 All of my projects are available [my GitHub](https://github.com/gurunathasmb)
+
+## 🛠️ Tech Arsenal
+
+**Frontend**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
 
-- 👨🏻‍💻 Passionate **web** developer
-- 👨🏻‍💻 Passionate **Machine learning** developer
+**Backend & Database**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
 
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2038%20mins-blue)
+**Tools**
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-165-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-173.5%20thousand%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 235 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 19 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                79 commits          █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
-🌆 Daytime                149 commits         █████████░░░░░░░░░░░░░░░░   37.06 % 
-🌃 Evening                139 commits         █████████░░░░░░░░░░░░░░░░   34.58 % 
-🌙 Night                  35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-Tuesday                  87 commits          █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
-Wednesday                6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-Thursday                 94 commits          ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
-Friday                   26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-Saturday                 46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-Sunday                   87 commits          █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
-```
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</p>
 
 
-📊 **This Week I Spent My Time On** 
+## 📈 GitHub Analytics
 
-```text
-🕑︎ Time Zone: Asia/Kolkata
+### 🧠 GitHub Stats
+![Manasa M GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gurunathasmb&show_icons=true&theme=radical)
 
-💬 Programming Languages: 
-C                        0 secs              ████████████████████░░░░░   78.01 % 
-Other                    0 secs              █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+### 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=Gurunathasmb&theme=radical)
 
-🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-waka-readme              1 min               █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               12 repos            ████████████████░░░░░░░░░   63.16 % 
-Python                   4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-```
+### 📊 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurunathasmb&layout=compact&theme=radical)
 
 
+## 📫 Connect With Me  
 
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/gurunathasmb/gurunathasmb/main/assets/bar_graph.png)
-
-
- Last Updated on 01/06/2025 10:53:50 UTC
-<!--END_SECTION:waka-->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurunathagouda-m-biradar-a03003263/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](gurunathagoudambiradar@gmail.com)
