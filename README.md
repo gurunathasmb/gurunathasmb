@@ -44,6 +44,16 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
 
 </p>
+**AI / ML / Data**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-39D353?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-F9D65D?style=for-the-badge&logo=huggingface&logoColor=white"/>
+</p>
+
 
 
 **Tools**
