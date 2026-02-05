@@ -70,17 +70,27 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
+## 📊 GitHub Analytics
 
-## 📈 GitHub Analytics
+<div align="center">
 
+![Stats](https://github-readme-stats.vercel.app/api?username=gurunathasmb&show_icons=true&theme=tokyonight&count_private=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gurunathasmb&layout=compact&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=gurunathasmb&theme=tokyonight)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=gurunathasmb&theme=react-dark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gurunathasmb&theme=dracula&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
 ### 🧠 GitHub Stats
-![Gurunathagouda M  GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gurunathasmb&show_icons=true&theme=radical)
+![Gurunathagouda M  GitHub Stats](https://github-readme-stats.vercel.app/api?username=gurunathasmb&show_icons=true&theme=radical)
 
 ### 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=Gurunathasmb&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=gurunathasmb&theme=radical)
 
 ### 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurunathasmb&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gurunathasmb&layout=compact&theme=radical)
 
 
 ## 📫 Connect With Me  
